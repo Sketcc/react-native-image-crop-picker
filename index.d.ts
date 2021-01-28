@@ -482,7 +482,7 @@ declare module "react-native-image-crop-picker" {
         cleanSingle(path: string): Promise<void>;
     }
 
-    const ImageCropPicker: ImageCropPicker;
+    const ImagePicker: ImageCropPicker;
 
-    export default ImageCropPicker;
+    export default ImagePicker;
 }
